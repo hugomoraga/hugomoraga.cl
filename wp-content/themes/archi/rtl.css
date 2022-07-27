@@ -1,0 +1,115 @@
+/*
+Theme Name: Archi
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See: https://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+/**
+ * Table of Contents:
+ *
+ * 1.0 - Normalize
+ * 2.0 - Typography
+ * 3.0 - Elements
+ * 4.0 - Forms
+ * 5.0 - Navigations
+ * 6.0 - Accessibility
+ * 7.0 - Widgets
+ * 8.0 - Content
+ *   8.1 - Header
+ *   8.2 - Posts and pages
+ *   8.3 - Comments
+ *   8.4 - Footer
+ * 9.0 - Multisites
+ * 10.0 - Media Queries
+ *    10.1 - >= 710px
+ *    10.2 - >= 910px
+ *    10.3 - >= 985px
+ *    10.4 - >= 1200px
+ */
+
+
+/**
+ * 1.0 - Normalize
+ */
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+    margin-right: auto;
+    margin-left: 0.4375em;
+}
+
+/**
+ * 2.0 - Content
+ */
+#subheader h1 {float: right;margin-right: 0px;padding-right: 0px;}
+#subheader .crumb{float: left;}
+
+/**
+ * 2.1 - Header
+ */
+header .info ul.info-list li i {
+    margin-right: 0px;
+    margin-left: 8px;
+}
+header div#logo{float: right;}
+header nav {float: left;}
+#mainmenu li{float: right;}
+#mainmenu a {padding-left: 0px;padding-right: 20px;}
+#mainmenu li a:after {margin-left:0px; margin-right: 20px;float:left;}
+#mainmenu li li a{text-align: right;}
+#menu-btn{float: left;}
+
+ /**
+ * 2.2 - Sidebar
+ */
+
+ /**
+ * 2.3 - Footer
+ */
+
+ /**
+ * 3.0 - Elements
+ */
+.project-info {text-align: right;}
+.owl-carousel{direction: ltr;}
+.owl-carousel .owl-item {text-align: right;}
+.text-slider.owl-carousel .owl-item {text-align: center;}
+.box-number .text {margin-left: 0;margin-right: 100px;}
+.arrow-up:before, .arrow-down:before{margin: 0 -8px 0 0 !important;}
+.post-content {direction: rtl;}
+.box-icon .text {margin-left: 0px;margin-right: 80px;}
+.box-icon .icon i {float: right;margin-right: 0px;margin-bottom: 0px;}
+ /**
+ * 4.0 - Shop
+ */
+ .woocommerce .star-rating{float: left;}
+ .woocommerce #reviews #comments ol.commentlist li img.avatar{float: right;right: 0px;left: auto;}
+ .woocommerce #reviews #comments ol.commentlist li .comment-text{margin: 0 50px 0 0;}
+ caption, th, td {text-align: right;}
+ .woocommerce #content table.cart td.actions .coupon, .woocommerce table.cart td.actions .coupon, .woocommerce-page #content table.cart td.actions .coupon, 
+ .woocommerce-page table.cart td.actions .coupon {float: right;}
+ .woocommerce .cart .button, .woocommerce .cart input.button {float: left;}
+ .woocommerce ul.product_list_widget li img {float: right;margin-left: 15px;margin-right: 0;}
+
+ /**
+ * 5.0 - Blog
+ */
+.blog-list .post-text {padding-left: 0;padding-right: 80px;}
+.blog-list .btn-more {float: left;}
+.blog-list .date-box .month{letter-spacing: 6px;}
+.pagination{width: 100%;}
+.pagination > li {display: inline-block;}
+.rev_slider_wrapper{direction: ltr;}
+@media only screen and (max-width: 992px) {     
+    #mainmenu a{text-align:right;padding-right: 0px;}
+    #mainmenu li ul li {padding-left: 0 !important;padding-right: 40px;}
+    #mainmenu li ul li a {border-left: 0px solid #333;border-right: 1px solid #333;}
+} 

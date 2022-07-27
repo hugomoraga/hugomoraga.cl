@@ -1,0 +1,769 @@
+﻿09/01/2019 - Version: 4.3.1 
+- Updated: Revolution Slider latest version 6.1.5
+- Changed: Change the link to download all the plugins required to another hosting. 
+- Files Updated: plugin-requires.php
+
+18/12/2019 - Version: 4.3.0
+- Updated: WPBakery Page Builder (Formerly Visual Composer) latest version 6.1
+- Updated: Update Archi child theme version 3.5.0
+- New added: Add option show/hide pagination in OT Portfolio Gallery element
+- New added: Add option switch enable/disable footer widget area on pages, setting in page editing.
+- New added: Add option for archive portfolio page when click on breadcrumb in Archi Options -> Portfolio Settings.
+- Improved: Improving the side navigation menu
+- Improved: Improving the Breadcrumb code
+- Fixed: Woocommerce login on header topbar
+- Files Updated: shortcode.php, vc_shortcode.php, header.php, color.php, meta-boxes.php, footer.php, admin.js, header-sidenav.css, header-sidenav-light.css, sample-config.php, template-tags.php, style.css
+
+21/10/2019 - Version: 4.2.9
+- Fixed: Fix color style for "OT FAQs" element on light version
+- Fixed: Fix color style for "OT Pricing Table 2" element on light version
+- Updated: OT Themes One Click Import Demo plugin version 4.2.1
+- Files Updated: light.css, style.css
+
+08/10/2019 - Version: 4.2.8
+- Updated: Revolution Slider latest version 6.1.3
+- New added: Option change animation delay time for "OT Process" element.
+- Fixed: Fixed image size use add_image_size function of wordpress, remove crop image by bfi_thumb
+- Files Updated: functions.php, shortcode.php, vc_shortcode.php, style.css
+
+05/09/2019 - Version: 4.2.6
+- Updated: Revolution Slider latest version 6.1.0
+- New added: Added option <link> target Attribute for "OT Image Gallery 1, OT Image Gallery 2" elements.
+- New added: Option On/Off looping for video in "OT Home Youtube Video" element
+- Fixed: Fix some php bugs in "OT Portfolio Filter" element
+- Fixed: Equal height on safari on macOS
+- Files Updated: plugin-requires.php, shortcode.php, vc_shortcode.php, style.css
+
+20/08/2019 - Version: 4.2.5
+- New added: Added fields to set a custom text for button next and button prev in "OT Before After Slider" element, check image: http://prntscr.com/osuvzo
+- New added: Added link clickable for titles/thumbnail service post.
+- Improved: Improving some css.
+- Fixed: Responsive for OT Portfolio Masonry element
+- Fixed: Process icon center display on mobile devices
+- Fixed: Before After Image in "OT Before After Box" element
+- Fixed: Before After Image in "OT Before After Slider" element
+- Files Updated: vc_shortcode.php, shortcode.php, designesia.js, style.css
+
+30/07/2019 - Version: 4.2.2
+- Fixed: Submenu levels 2, 3, etc...
+- Fixed: Social share LinkedIn on single post
+- Files Updated: functions.php, color.php, single.php, style.css
+
+25/07/2019 - Version: 4.2.1
+- Updated: Revolution Slider latest version 6.0.7
+- Updated: OT Themes One Click Import Demo 4.2
+- Fixed: Onepage menu scroll to row(section)
+- Fixed: Background parallax on mobile devices
+- Files Updated: functions.php, style.css
+
+18/07/2019 - Version: 4.2.0
+- New added: Niche Archi Gadern Version
+- New added: Options to set a custom "before label", "after label", "How much of the before image is visible" in OT Before After Box and OT Before After Slider elements.
+- New added: Option for "OT Typing Text" element: add character for cursor, add color for each typing text.
+- Fixed: Fix Row equal height on IE 11 browser
+- Fixed: Sub Header some shop layout template
+- Updated: OT Themes One Click Import Demo 4.2
+- Updated: Revolution Slider latest version 6.0.5
+- Updated: WPBakery Page Builder (Formerly Visual Composer) latest version 6.0.5
+- Files Updated: functions.php, vc_shortcode.php, shortcode.php, content-*.php, designesia.js, style.css
+
+17/06/2019 - Version: 4.1.1
+- New added: Shortcode "OT Masonry Image Gallery" element
+- New added: Shortcode "OT Process Links" element, click on process icon and go to another page or external page.
+- Included: single-process.php file
+- Files Updated: functions.php, vc_shortcode.php, shortcode.php, designesia.js, style.css
+
+03/06/2019 - Version: 4.0.3
+- New added: Option for added link the images to a specific page in OT Image Gallery 1 & OT Image Gallery 2 elements
+- New added: Option text color for: OT Text Slider Box, OT Home Portfolio Minimal, OT Home Landing Product, OT Home Parallax Multi-Purpose, OT Home Video Landing, OT Home Parallax, OT Home Parallax 2, OT Home Text Static, OT Home Parallax image Landing, OT Home Moving Background, OT Home Let it snow, OT Home Profession, OT Typing Text
+- Optimized: Optimize font size on mobile devices for text size on banner image.
+- Fixed: Menu Onepage hidden when click menu item.
+- Updated: WPBakery Page Builder (Formerly Visual Composer) latest version 6.0.3
+- Updated: OT Portfolios version 1.3.3
+- Updated: OT Services version 1.3.3
+- Files Updated: plugin-requires.php, vc_shortcode.php, shortcode.php, designesia.js, style.css
+
+02/05/2019 - Version: 4.0
+- New added: Niche Archi Industry Version
+- New added: New shortcode elements: OT Contact Info
+- New added: New options for OT Heading, OT Line Solid, OT Process
+- Updated: OT Themes One Click Import Demo 4.0
+- Updated: Theme compatible with WooCommerce latest version 3.6.2
+- Updated: WooCommerce templates files included in the theme folder
+- Updated: POT language file
+- Files Updated: plugin-requires.php, vc_shortcode.php, shortcode.php, theme-custom-visual-template.php, designesia.js, style.css
+
+11/04/2019 - Version: 3.9.7.3
+- Updated: The Archi theme compatible with Polylang, WPML plugin.
+- New Added: Add Title and Alt Attribute to WordPress Image the_post_thumbnail - For SEO
+- New added: Add option show post by categories special in OT Blog Slider, OT Blog List. 
+- New included: Included the wpml-config.xml file, strings translations the Archi Theme Options in Polylang, WPML plugin: http://prntscr.com/nag988
+- New added: Translation for the Loading..., Close text in Magnific Popup.
+- Files Updated: vc_shortcode.php, shortcode.php, functions.php, template-functions.php, sample-config.php, footer.php, single-portfolio.php, style.css
+
+28/03/2019 - Version: 3.9.7.1
+- Improved: Improving the images on half row is responsived on mobile devices
+- Updated: Revolution Slider latest version 5.4.8.3
+- Updated: Theme compatible with WooCommerce latest version 3.5.7
+- Updated: Magnific Popup JQuery version 1.1.0 (https://github.com/dimsemenov/Magnific-Popup/)
+- New added: Add custom date_time shortcode for Copyright on Footer: [oceanthemes_date] or [oceanthemes_date time_custom="F j, Y"]
+- New added: Auto Add spacing between the sets of Services boxes in OT Services Grid 3
+- Fixed: Fixed some code php error in shortcode.php file
+- Files Updated: plugin-requires.php, functions.php, shortcode.php, vc_row.php, template-functions.php, total1.js, style.css
+
+27/02/2019 - Version 3.9.6.6
+- Updated: Theme compatible with WooCommerce latest version Version 3.5.5
+- Fixed: Video HTML5 play on mobile devices
+- Fixed: Fixed images thumbnail in "OT Image Carousel" element
+- New Added: Add Title and Alt Attribute to WordPress Image the_post_thumbnail - For SEO
+- New Added: Set default the WPBakery Page Builder for Portfolio, Service Custom Post Type.
+- Files Updated: functions.php, vc_shortcode.php, shortcode.php, style.css
+
+13/02/2019 - Version 3.9.6.5
+- Updated: WPBakery Page Builder (Formerly Visual Composer) latest version 5.7
+- Updated: Revolution Slider latest version 5.4.8.2
+- Fixed: Fixed bug column in footer landing page display on tablet devices
+- New added: Added option Yes/No AutoPlay Slider in "OT Blog Slider" element.
+- New added: HTML <img> alt Attribute for all images in all shortcode, included the ot-image-gallery-1-and-2 elements.
+- Files Updated: plugin-requires.php, vc_shortcode.php, shortcode.php, footer-landing.php, style.css
+
+04/01/2019 - Version 3.9.6.2
+- Updated: Revolution Slider latest version 5.4.8.1
+- Improved: Improving the PREV/NEXT on Before After Slider.
+- Improved: Improving the PREV/NEXT on Carousel Slider.
+- New added: Added option Yes/No AutoPlay Slider in "OT Image Carousel" element.
+- New added: Added option multiple select for Social Sharing on Portfolio Single Page, Blog Single Page.
+- New added: Added option multiple select for Entry Meta on Blog Single Page.
+- Files Updated: vc_shortcode.php, shortcode.php, sample-config.php, single.php, single-portfolio.php, style.css
+
+11/12/2018 - Version 3.9.6
+- Updated: Theme compatible with WordPress 5.x
+- Updated: Theme compatible with WooCommerce latest version Version 3.5.2
+- Updated: The Visual Composer latest version 5.6
+- New added: Add new option URL (Link), Element ID, Line height for "OT Heading" element
+- Files Updated: plugin-requires.php, vc_shortcode.php, shortcode.php, style.css
+
+22/11/2018 - Version 3.9.5
+- Updated: Update child theme 3.4.0
+- New added: functions.php, languages folder in child theme
+- New added: Add button close popup on bottom of the content project popup.
+- Improved: Improving the process element display on tablet/mobile.
+- Improved: Improving the parallax on tablet/mobile
+
+12/11/2018 - Version 3.9.3
+- New added: Options autoPlay and mute for "OT Home Youtube Video" element.
+- Fixed: Equal Height Visual Composer work on mobile.
+- Files Updated: vc_shortcode.php, shortcode.php, style.css
+
+26/10/2018 - Version 3.9.2
+- Updated: Compatible with WooCommerce latest version 3.5.x
+- Updated: Visual Composer latest version 5.5.5
+- Updated: WooCommerce templates files included in the theme folder
+- New added: Added the login /logout /Register/ my account link on the topbar header and option on/off in Archi Options -> Topbar Header Settings.
+- Fixed: Fixed some css for single blog, sidebar padding on mobile version
+- Files Updated: template-functions.php, header.php, sample-config.php, style.css
+
+04/10/2018 - Version 3.9.1
+- Fixed: Display multiple "OT Text Typing" element on the same page.
+- New added: Options animation for "OT Featured Boxes 2" element.
+- Files Updated: vc_shortcode.php, shortcode.php, style.css
+
+20/09/2018 - Version 3.9.0 
+- New added: Home Studio version
+- New added: OT Before After Slider shortcode element.
+- Updated: Visual Composer latest version 5.5.4
+- Updated: OT Themes One Click Import Demo 3.9.0
+- New added: Demo content files for "studio version" in folder data_export/studio/
+- New added: Added option for wide mode on the footer.
+- Files Updated: plugin-requires.php, sample-config.php, vc_shortcode.php, shortcode.php, vc_row.php, vc_column.php, footer.php, footer-*.php, designesia.js, style.css
+
+10/08/2018 - Version 3.8.6
+- New added: Home ART version
+- New added: Show photo author on OT Testimonial Slider.
+- Updated: Visual Composer latest version 5.5.2
+- Updated: OT Themes One Click Import Demo 3.8.6
+- Files Updated: functions.php, plugin-requires.php, vc_shortcode.php, shortcode.php, style.css
+
+25/06/2018 - Version 3.8.5
+- Updated: Visual Composer latest version 5.5.1
+- Updated: Revolution Slider latest version 5.4.8
+- Updated: OT Themes One Click Import Demo 3.8.5
+- Fixed: row-flex on safari browser
+- New added: Options Previous/next post navigation in single portfolio page by all category or same category in Archi Options -> Portfolio Settings -> Portfolio Single Page
+- New added: New Shortcode OT Home Image MultiPurpose, OT Before After Box, OT Text Slider Box element
+- New added: Option to enable/disable animation for "OT Services Grid 3" element
+- Files Updated: functions.php, plugin-requires.php, vc_shortcode.php, shortcode.php, sample-config.php, single-portfolio.php, total1.js, light.css, style.css
+
+24/05/2018 - Version 3.8.2
+- New added: Shortcode element "OT Simple Process"
+- Updated: Compatible with WooCommerce latest version 3.4.x
+- Updated: Revolution Slider latest version 5.4.7.4
+- Updated: WooCommerce template files is out of date in WooCommerce 3.4.0
+- Files Updated: vc_shortcode.php, shortcode.php, color.php, style.css
+
+07/05/2018 - Version 3.8.1
+- New added: Options Order by and Sort order for "OT Portfolio Filter" elements.
+- Fixed: Sub Navigation active color on single service page.
+- Fixed: Menu bullet is break down and not worked on IE 8 or higher.
+- Fixed: Display background image instead for background video on coming soon video page on mobile.
+- Included: new-ie.css file in archi/css/ 
+- Files Updated: vc_shortcode.php, shortcode.php, template-coming-soon-video.php, color.php, light.css, style.css
+
+26/04/2018 - Version 3.8.0
+- New added: 2 diffirent homepages version
+- New added: Option autoheight for "OT Testimonial Silder" element
+- New added: Easy add custom javascript code in Archi Options -> Footer Settings -> Javascript Code:
+- New added: Shortcode elements: OT Home Portfolio Minimal, OT Home Landing Product
+- Updated: Revolution Slider 4.7.3
+- Updated: Update the "OT One Click Import Demo" plugin
+- Improved: Testimonials thumbnail for "OT Testimonial Grid"
+- Changed: Font Awesome Icons to the new path
+- Files Updated: vc_shortcode.php, template-shop.php, plugin-requires.php, color.php, sample-config.php, template-functions.php, 
+designesia.js, light.css, style.css
+
+13/03/2018 - Version 3.7.1
+- Updated: Visual Composer latest version 5.4.7
+- Improved: Improving the process tab
+- Fixed: Some bugs in js file
+- Files Updated: shortcode.php, designesia.js, style.css
+
+07/03/2018 - Version 3.7.0
+- Updated: Theme compatible with WordPress 4.9.x
+- Updated: Theme compatible with WooCommerce version 3.3.x
+- Updated: Revolution Slider 4.7.1
+- Updated: WooCommerce files included in the theme folder
+- New added: Option show/hide for Header Landing page.
+- Removed: Remove link on service image.
+- Fixed: Remove developer mode on Theme Options.
+- Fixed: Customize background color for Header on Side Navigation version.
+- Fixed: Some bugs in js file
+- Files Updated: color.php, admin-style.css, designesia.js, style.css
+
+02/01/2018 - Version 3.6.9.8
+- New added: Options show gallery by category in "OT Portfolio Gallery" and "OT Portfolio Gallery 2"
+- New added: Options color for heading widget on footer.
+- New added: Options line style dark or light in "OT Line Solid" element
+- New added: Option add active tab number in "OT Multiple Google Map" element
+- Improved: Improving the css code in style.css "html.mfp-helper"
+- Improved: Improving some css code in style.css, light.css, header-sidenav.css
+- Updated: Update the language .POT file
+- Files Updated: sample-config.php, vc_shortcode.php, shortcode.php, content-*.php, single.php, meta-boxes.php, designesia.js, style.css
+
+19/12/2017 - Version 3.6.9.5
+- New Added: Shortcode "OT Blog List" element
+- Fixed: Fixed bug when hover on Masonry projects
+- Updated: Update the "OT One Click Import Demo" plugin
+- Updated: Update some demo content files in folder data_export
+- Files Updated: content-*.php, vc_shortcode.php, shortcode.php, designesia.js, style.css
+
+13/12/2017 - Version 3.6.9.2
+- New Added: Show portfolios by category in "OT Portfolio Style 2" element.
+- New Added: Option hide "Previous/next post navigation*" on single portfolio page.
+- New Added: Options Enable/Disable Animation for "OT Featured Boxes", "OT Featured Boxes 2" elements
+- Improved: Improving responsive for blog post
+- Files Updated: sample-config.php, vc_shortcode.php, shortcode.php, single-portfolio.php, style.css
+
+04/12/2017 - Version 3.6.9
+- Updated: Slider Revolution Version 5.4.6.3.1
+- Fixed: Mobile Header Sticky not working when selected together "Header hide before scroll to show" is "On".
+- Improved: Contact Form 7 style for some fields.
+- Fixed: Popup images next/previous follow category filter in "OT Portfolio Gallery",  "OT Portfolio Gallery 2" element.
+- Files Updated: template-functions.php, shortcode.php, style.css
+
+27/11/2017 - Version 3.6.8.5
+- Updated: Visual Composer latest version 5.4.5
+- Improved: Improving process on mobile
+- Files Updated: style.css
+
+17/11/2017 - Version 3.6.8.4
+- Updated: Visual Composer latest version 5.4.4
+- Updated: Slider Revolution Version 5.4.6.3
+- Updated: Compatible with WordPress 4.9.x
+- Improved: Improving the theme
+- Files Updated: plugin-requires.php, functions.php, style.css
+
+27/10/2017 - Version 3.6.8.3
+- Updated: Visual Composer latest version 5.4.2
+- Updated: Theme compatible with WooCommerce version 3.2.x
+- New added: Options target for button in OT Home Parallax, OT Home HTML5 Video elements
+- Fixed: Some Social sharing button not work on single portfolio page.
+- Fixed: Color the button pagination on the single portfolio does not change with the main theme color.
+- Files Updated: shortcode.php, vc_shortcode.php, single-portfolio.php, color.php, style.css
+
+11/10/2017 - Version 3.6.8.2
+- Updated: Slider Revolution Version 5.4.6.1
+- New added: Add new typography fields (Word Spacing, Letter Spacing, Text Transform) in Archi Options -> Typography
+- New added: Options crop images, spacing between project items in Archi Options -> Portfolio Settings -> Portfolio Archive Page
+- Improved: Improve dropdown menu font, color, etc...
+- Fixed: When you click on project image and you'll gets back picture crackled/pixelated on popup.
+- Elements fixed: OT Portfolio Filter, OT Portfolio Filter 2, OT Portfolio Filter 3, OT Portfolio Category elements.  
+- Files Updated: sample-config.php, color.php, archive-portfolio.php, shortcode.php, header-sidenav.css, header-sidenav-light.css, style.css
+
+29/09/2017 - Version 3.6.8
+- New Added: Logo pleloader and option logo preload or progress preload 
+- New Included: royal_preloader.min.js, royal-preloader.css files
+- Improved: archive portfolio, archive service, onepage scroll in functions.php file
+- Removed: remove error code in functions.php file
+- Files Updated: functions.php, archive-portfolio.php, archive-service.php, color.php, template-functions.php, sample-config.php, style.css
+
+26/09/2017 - Version 3.6.6
+- Updated: Visual Composer latest version 5.3
+- Updated: Slider Revolution Version 5.4.6
+- New Added: Options fullwidth without container for single service page.
+- New Added: Add pagination used images thumbnail for "OT Image Carousel" element
+- Improved: Improving pagination in portfolio archive page.
+- Fixed: Fix bug with the sub menu third and can't click menu item on mobile.
+- Changed: OT One Click Import Demo plugin, after installed this new plugin and go to Archi Options -> Demo Importer -> Import demo you want.
+- Files Updated: functions.php, plugin-requires.php, sample-config.php, shortcode.php, archive-portfolio.php, single-service.php, style.css
+
+15/09/2017 - Version 3.6.5
+- Updated: Slider Revolution Version 5.4.5.2
+- Updated: Update demo content for "Fresh" version.
+- Updated: Demo content files and One Click Import demo content plugin
+- Updated: Update Language file
+- Improved: Improving css
+- New Added: Add field change button text View All in "OT Multiple Google Map". 
+- Fixed: Header Bottom not work on "One Page" Template.
+- Files Updated: template-functions.php, sample-config.php, shortcode.php, vc_shortcode.php, footer.php, footer-landing.php, style.css
+
+08/09/2017 - Version 3.6.2
+- New added: Customize for Menu Items color when active and hover in Archi Options -> Header Settings.
+- New added: Customize resize columns for blog main content and sideabar in Archi Options -> Blog Settings.
+- New added: Customize resize columns for Topbar on Header in Archi Options -> Topbar Header Settings.
+- Files Updated: color.php, header.php, header-onepage.php, sample-config.php, single.php, search.php, archive.php, index.php, style.css
+
+29/08/2017 - Version 3.6.0
+- New added: New Homepage Fresh
+- Updated: Visual Composer latest version 5.2.1
+- Updated: Demo content files and One Click Import demo content plugin
+- Files Updated: color.php, shortcode.php, vc_shortcode.php, style.css
+
+02/08/2017 - Version 3.5.5.0
+- New added: Easy customize height for Header Top Page (Sub-Header Settings) in Archi Options -> Sub-Header Settings
+- New added: Easy customize background image, color, etc. for Footer Area in Archi Options -> Footer Settings
+- New added: Add common title for "OT Image Gallery 1" and "OT Image Gallery 2".
+- Fixed: Bug in template-tags.php file and change other custom breadcrumb code. (wp-content/themes/archi/framework/templete-tags.php on line 69)
+- Files Updated: sample-config.php, color.php, shortcode.php, vc_shortcode.php, template-tags.php, style.css
+
+21/07/2017 - Version 3.5.4.0
+- Fixed: Pagination in "OT Portfolio *" not work on homepage only.
+- Fixed: OT Portfolio Category popup not work.
+- Updated: OT Portfolios plugin version 1.3.1
+- Files Updated: shortcode.php, style.css
+
+10/07/2017 - Version 3.5.3.0
+- New added: Option space between images in "OT Images Gallery 2" element.
+- Fixed: Some elements does not work in the backend -> OT Portfolio, OT Services, OT Process, OT Testimonial.
+- Improved: Reduced opening time for sub menus on the mobile view, when you click on button arrow down to open sub menu.
+- Improved: "OT Quick Office", "OT Quick Office 2" elements
+- Improved: "OT Blog Post Slider" element, you can choose number of columns to show on front page.
+- Files Updated: shortcode.php, vc_shortcode.php, designesia.js, style.css
+
+06/07/2017 - Version 3.5.2.0
+- Updated: Visual Composer latest version 5.2
+- New added: Easy to put icon images inside the circles of the process.
+- Improved: OT Services Grid 2, OT Featured Boxes elements.
+- Improved: Animate dropdown menu when hover on menu item.
+- Improved: Sticky menu on mobile, collapse for menu item work fine.
+- Files Updated: shortcode.php, vc_shortcode.php, color.php, meta-boxes.php, designesia.js, style.css
+
+03/07/2017 - Version 3.5.1.0
+- New added: On/Off entry_meta on single blog (Archi Options -> Blog Settings -> Blog Single Page -> Entry Meta Off?)
+- Improved: Favicon for Archi
+- New added: Minisite version
+- New added: Include demo content files in data_export/minisite folder
+- Updated: One Click Import Demo plugin
+- Files Updated: sample-config.php, template-tags.php, header.php, header-*.php, single.php, vc_shortcode.php, shortcode.php, style.css
+
+19/06/2017 - Version 3.5.0.1
+- Fixed: TGM Plugin Activation "class-tgm-plugin-activation.php"
+- Updated: Slider Revolution Version 5.4.5.1
+- Updated: Theme compatible with WordPress 4.8
+
+09/06/2017 - Version 3.5.0
+- New Added: Add new "OT FAQs", "OT Multiple Google Map" element
+- New Added: FAQs page and Contact page with Multiple Google Map
+- New Added: On/Off Social Network on Header, Footer (Archi Options -> Social Settings)
+- New Added: Add your multi-languages shortcode on right side of top header (Archi Options -> Topbar Header Settings -> Multi-Languages)
+- Updated: Include Google font "Montserrat" and "PT+Sans"
+- Updated: Slider Revolution Version 5.4.5
+- Updated: One Click Import Demo Content
+- Fixed: Delay time for icon not work when add number in backend elements OT Info Apps, OT Info Apps 2
+- Fixed: Animation in "OT Featured Boxes" not work
+- Fixed: Jumping content tab on single product page
+- Fixed: Can't clickable link # on any button to section on onepage page.
+- Files Updated: vc_shortcode.php, shortcode.php, functions.php, color.php, sample-config.php, header.php, footer.php, designesia.js, light.css, style.css
+
+17/05/2017 - Version 3.4.2
+- Improved: js scroll to section on same page.
+- Fixed: Install plugins fail on hosting config SSL.
+- Files Updated: functions.php, plugin-requires.php, style.css
+
+05/05/2017 - Version 3.4.1
+- Updated: Slider Revolution Version 5.4.3
+- New added: Options Link Target in two elements OT Featured Boxes, OT Featured Boxes 2 
+- New added: Options show/hide date on "OT Blog Post Silder" element
+- New added: Options Previous/next post navigation in single blog page by all category or same category in Archi Options -> Blog Settings -> Blog Single Page
+- Fixed: Previous/next post navigation in single blog page
+- Files Updated: functions.php, shortcode.php, vc_shortcode.php, single.php, sample-config.php, style.css
+
+20/04/2017 - Version 3.4.0
+- New Added: OT Portfolio Masonry element
+- Improved: "OT Portfolio Category", active category portfolio filter by your choose category slug name in backend, 
+add unlimited "OT Portfolio Category" on same a page.
+- Improved: "OT Info Apps 2" element, add option choose border box, button link.
+- Updated: WooCommerce template files.
+- Files Updated: shortcode.php, vc_shortcode.php, content-single-product.php, color.php, meta-boxes.php, style.css, light.css, designesia.js
+
+07/04/2017 - Version 3.3.3
+- Updated: Theme compatible with WooCommerce version 3.0.1
+- Updated: Visual Composer version 5.1.1
+- Improved: Improve the theme
+- Files Edited: color.php, woocommerce-customize.php, add-to-cart.php, content-product.php, style.css, woocommerce.css
+
+04/04/2017 - Version 3.3.2
+- Updated: Theme compatible with Visual Composer 5.1
+- Improved: Responsive footer layout on Mobile for Side Navigation version.
+- Fixed: Show categories empty on frontend, "OT Portfolio Filter" element
+- Files Edited: functions.php, shortcode.php, vc_column.php, vc_column_inner.php, style.css, header-sidenav.css, header-sidenav-light.css
+
+29/03/2017 - Version 3.3.1
+- New added: Options Show/Hide Arrow Next/Previous Button on Popup Portfolio in elements: OT Portfolio Filter, OT Portfolio Filter 2, OT Portfolio Filter 3, OT Portfolio Inverted Style, OT Portfolio Style 2, OT Portfolio Carousel Style, OT Portfolio Category
+- New added: You can use icon image in elements OT Info Apps, OT Info Apps 2
+- Fixed: Header over portfolio popup
+- Files edited: style.css, functions.php, shortcode.php, vc_shortcode.php
+
+27/03/2017 - Version 3.3.0
+- Updated: Slider Revolution Version: 5.4.1
+- Updated: WPBakery Visual Composer Version: 5.1
+- New added: Easy add your Google map api key in Archi Options -> Miscellaneous Settings -> Google Map API Key
+- New added: Add some popular social sharing button on single portfolio page: digg, reddit, delicious, vk
+- New added: Easy custom colors for button menu on mobile.
+- New added: Easy custom Dropdown menu colors and width on your website in Archi Options -> Header Settings -> Dropdown Menu Style
+- New added: Easy custom padding top and bottom on Footer your website in Archi Options -> Footer Settings -> Spacing
+- New added: Add option Enable/Disable Animation on mobile? in Archi Options -> Miscellaneous Settings -> Enable Animation on Mobile?
+- New added: Add options for Archive Service Page with option column, option image, number items per page, etc...
+- New added: Show Testimonials by category you choose in elements "OT Testimonials Slider", "OT Testimonials Grid"
+- New added files: select-field-testimonials.js
+- New added: Row(Section) Background HTML5 Video
+- New added: Filter Portfolio by subcategories in "OT Portfolio Filter" element
+- Files edited: style.css, functions.php, vc_row.php, sample-config.php, single-portfolio.php, shortcode.php, vc_shortcode.php, designesia.js
+
+03/03/2017 - Version 3.2.3
+- New added: New Home Profession Light
+- New added: You can use both library font icons Etline-Font icons or Font-Awesome icons in elements OT Info Apps, OT Info Apps 2
+- New added: Easy choose icon color for elements OT Info Apps, OT Info Apps 2
+- New added: You can change background image on top page for each post.
+- Fixed: OT Portfolio Style 2 duplicate portfolio when click popup.
+- Files edit: functions.php, color.php, vc_shortcode.php, shortcode.php, meta-boxes.php, single.php, light.css, style.css
+
+17/02/2017 - Version 3.2.2
+- New added: add feature "filter project items" in "OT Portfolio Category" element.
+- New added: added Automatic update the plugins feature.
+- Improved: mobile menu color
+- Fixed: resolved issue logo jumping on side navigation.
+- Files edit: functions.php, color.php, vc_shortcode.php, shortcode.php, header-sidenav.css, header-sidenav-light.css, style.css
+
+08/02/2017 - Version 3.2
+- New added: New Home Profession
+- New added: Add Pagination and add options show/hide filter and show/hide pagination on elements: OT Portfolio Filter, OT Portfolio Filter 2, 
+OT Portfolio Filter 3, OT Portfolio Style 2, OT Portfolio Inverted Style 
+- New added: add more option spacing between grid items in "OT Portfolio Filter"
+- New added: OT Simple Slider, OT Home Profession, OT Profile Experiences
+- New added: Footer layout 2 in Archi Options -> Footer Settings
+- Fixed: submenu show on side navigation version work fine now.
+- Files edit: shortcode.php, vc_shortcode.php, footer.php, sample-config.php, color.php, header-sidenav.css, header-sidenav-light.css, style.css
+
+17/01/2017 - Version 3.1.6.1
+- Improved: element OT Client Logos, add unlimited client logo element on same a page.
+- Improved: element OT Our Team
+- Improved: responsive image on half section, eg: image on about page, image on home side navigation.
+- Files edit: shortcode.php, sample-config.php, designesia.js, woocommerce.css, light.css, style.css
+
+05/01/2017 - Version 3.1.6
+- New added: Add more two shortcode elements: OT Album Gallery 1  and OT Album Gallery 2 use for "OT Gallery plugin".
+- New added: New "OT Gallery plugin" use for shortcode elements OT Album Gallery 1  and OT Album Gallery 2
+- New added: Add link to image service
+- New added: On/Off display social sharing on single blog, single portfolio in Archi Options
+- New added: Now you can add menu for single service page and easy order menu on single service page
+- New added: Options Slider in element OT Testimonial Slider
+- Fixed: tags blog missing some tag
+- Files edit: functions.php, sample-config.php, single.php, single-service.php, single-portfolio.php, shortcode.php, vc_shortcode.php, style.css
+
+20/12/2016 - Version 3.1.5.1
+- New added: Social extend in some files : header-*.php, footer-*.php
+- New added: Add contact info custom html code in Side Navigation on Bottom Header, Add in Archi Options -> Side Navigation.
+- New added: Option for Service Archive Page in Archi Options -> Services Settings
+- New added: include new select-field-services.js file
+- New added: add option show services by category in elements OT Services Grid, OT Services Grid 2, OT Services Grid 3, OT Services List 
+- Updated: update show fields author, category in backend for some plugins ot_service, ot_testimonial, ot_process
+- Fixed: missing title color on single blog, missing header background color on mobile.
+- Files edit: sample-config.php, color.php, shortcode.php, vc_shortcode.php, light.css, header-sidenav.css, header-sidenav-light.css, style.css
+
+14/12/2016 - Version 3.1.3
+- New added: Header Option Wide or Boxed
+- New added: Easy custom color for header on mobile in 'Header Settings -> Header Mobile Styling'
+- New added: Easy custom background color, text color for sub header (header on top page)
+- Updated: Archi RTL Version and Side Navigation work fine (update: Archi-Version-RTL/archi-rtl.zip)
+- Files edit: functions.php, sample-config.php, color.php, light.css, bg.css, rev-settings.css, woocommerce.css, header-*.php, style.css
+
+
+09/12/2016 - Version 3.1.1
+- New added: homepage snowy (http://demo.oceanthemes.net/archi/home-snowy/)
+- New added: Option On/Off hide header before scroll down page to show header.
+- New added: add two shortcode element : OT Featured Boxes, OT Featured Boxes 2, OT Button 2, OT Home Snowy
+- New added: Include Archi version RTL in package theme (find in folder: Archi-Version-RTL/archi-rtl.zip )
+- Updated: update theme compatible with WordPress 4.7+
+- Changed: change ouput theme option code to compatible with WPML shortcode plugin.
+- Files added: let-it-snow.min.js, let-it-snow.css
+- Files edit: functions.php, shortcode.php, vc_shortcode.php, sample-config.php, designesia.js, style.css
+
+06/12/2016 - Version 3.0.2
+- Fixed: portfolio filter work now.
+- Updated: translate files in folder archi/languages/
+- Improved: you can add unlimited gmap on one page.
+- Files edit: functions.php, shortcode.php, style.css
+
+05/12/2016 - Version 3.0
+- Updated: Slider Revolution Version: 5.3.1
+- Updated: demo content in folder data_export
+- Updated: one-click-import-demo-content plugin
+- New added: add more shortcode elements (OT Image Gallery and OT Image Gallery 2), you can add unlimited images.
+- New added: easy custom preload color in Archi Options -> Preload Settings
+- New added: easy change slider speed, slider autoplay, slider fade for post slider in Archi Options -> Blog Settings
+- Improved: easy change header background color on mobile
+- Improved: Add unlimited slider text for elements : OT Home HTML5 Video, OT Home Parallax, OT Home Parallax 2, OT Home Youtube Video, OT Home Moving Background
+- Removed: will not use "OT Slider Text" plugin from Archi version 3.0
+- Files edit: shortcode.php, vc_shortcode.php, sample-config.php, color.php, index.php, content-gallery.php, single.php, designesia.js, rtl.css, style.css
+
+28/11/2016 - Version 2.9.0.1
+- Improved: Menu 3rd level
+- Improved: Gallery work with both video + image
+- Files edit: shortcode.php, designesia.js, style.css
+
+25/11/2016 - Version 2.9
+- New added: customize gmap style easy in element "OT Google Map"
+- New added: options blog layout in archi options -> blog settings
+- New added: typed.js file.
+- New added: shortcode elements (OT Portfolio Carousel Style, OT Portfolio Inverted Style, OT Text Typing, OT Service Grid 3)
+- New added: options layout for all blog pages (in Archi options -> Blog Settings)
+- New added: options layout for single service pages (in Archi options -> Services Settings)
+- Improved:  blog single page with pagination, social button share post 
+- Improved: Portfolio single page add social button share, options prev/next portfolio on top page or on bottom page.
+- Files edit:  shortcode.php, vc_shortcode.php,  color.php, header-landing2.php, header-onepage2.php, header-sidenav.php 
+			  functions.php, designesia.js, header-sidenav.css, header-sidenav-light.css, plugin.css, style.css
+
+17/11/2016 - Version 2.8.5.2
+- Fixed bug overlap on the header when show both topbar and header menu.
+- Files edit: functions.php, style.css
+
+10/11/2016 - Version 2.8.5
+- Updated: WPBakery Visual Composer - Version 5.0
+- Updated: Compatible with Woocommerce 2.6.7
+- Updated: TGM-Plugin-Activation - Version 2.6.1
+- Files edit: functions.php, vc_row.php, vc_column.php, style.css
+
+09/11/2016 - Version 2.8.4
+- New added: show process by category.
+- New added: Option layout for service single page in Archi Options -> Services Settings
+- New added: select-field-process.js file in folder theme archi/framework/admin/js/
+- Files edit: sample-config.php, single-service.php, shortcode.php, vc_shortcode.php, designesia.js, style.css, color.php.
+
+07/11/2016 - Version 2.8.3
+- Updated: Revolution Slider latest version 5.3.0.2
+- New added: Option for Desktop Header Sticky on/off , Option for Breadcrumb on/off.
+- Improved: some css in file style.css
+- Files edit: sample-config.php, style.css, functions.php, color.php, etc...
+
+28/10/2016 - Version 2.8.2
+- New added: RTL Language and now you can use our theme for Arabic language, etc...
+- Updated: files translate in folder archi/languages/
+- Files edit: rtl.css, style.css, etc...
+
+25/10/2016 - Version 2.8.0.1
+- Fixed: bug in file footer.php missing padding-top on footer.
+- Updated: demo content in folder data_export
+- Updated: Font-Awesome 4.7.0
+
+24/10/2016 - Version 2.8
+- Update Revolution Slider latest version 5.3.0.1
+- Update plugin One Click Import Demo.
+- New added : Home header bottom on light version,  Home Moving Background, Home Youtube Video
+- New added shortcode: OT Home Moving Background, OT Home Youtube Video.
+- Improve portfolio popup scroll content show on mobile.
+- Files edit : designesia.js, magnific-popup.css, shortcode.php, vc_shortcode.php, style.css, color.php, functions.php, light.css, etc...
+
+21/09/2016 - Version 2.7.1
+- Improve some css style
+- Update demo content
+- Update plugin one-click-import-demo
+
+08/09/2016 - Version 2.7
+- Update Theme compatible with WordPress 4.6.1
+- Update Visual Composer latest version 4.12.1
+- Improve header style display good on desktop and mobile
+- Files updated :  style.css, header-sidenav-light.css, header-sidenav.css, etc...
+
+15/8/2016 - Version 2.6.8
+- New Added : homepage with header bottom
+- New Added : elements OT Home Text Static, OT Portfolio Filter 3, 
+- Updated : demo-content.xml, one-click-import-demo plugin, etc...
+- Files updated : sample-config.php, functions.php, vc_row.php, shortcode.php, vc_shortcode.php, header.php, designesia.js, style.css, plugin.css, etc...
+
+4/7/2016 - Version 2.6.6
+- Fixed Google Map in element "OT Google Map" and work now.
+
+29/06/2016 - Version 2.6.5
+- Update Revolution Slider latest version 5.2.6
+- New added option crop image thumbnail in elements : OT Portfolio Filter, OT Portfolio Style, OT Portfolio Gallery, OT Portfolio Category, etc...
+- Fixed background sub-header image on single project not work.
+- Files edit : shortcode.php, vc_shortcode.php, single-portfolio.php, light.css, etc...
+
+25/06/2016 - Version 2.6.4
+- New Added option on/off mobile sticky header (Find in Archi Options -> Miscellaneous Settings -> Mobile Header Sticky On?)
+- New Added element "OT Image Carousel"  for use on project popup lightbox
+- New added services list (New all services page) - Shodertcode element "service list"
+- New added side navigation revolution slider
+- Update one-click-import-demo.zip plugin in folder plugins and online source.
+- Update revolution slider demo files in folder :
++ data_export/side-navigation-dark/Revolution Slider Demo Files/side-navigation-home-slider.zip 
++ data_export/side-navigation-light/Revolution Slider Demo Files/side-navigation-home-slider.zip
+- Fixed bug missing image in half row on mobile.
+- Remove folder plugins in folder theme : archi/framework/
+- Install all plugin required from online source.
+- Files edit : style.css, functions.php, shortcode.php, vc_shortcode.php, designesia.js, etc...
+
+22/06/2016 - Version 2.6.2
+- New added Homepage Minimal.
+- Update theme compatible with WooCommerce version 2.6.1
+- Update plugin one click import demo content
+- Edit some files : sample-config.php, style.css, functions.php, vc_row.php, woocommerce/content-product.php, shortcode.php, vc_shortcode.php
+
+16/06/2016 - Version 2.6.1
+- Update Visual Composer latest version 4.12
+- Update Revolution Slider latest version 5.2.5.4
+- Update Theme compatible with WooCommerce version 2.6.0
+- Edit some files : row.php, style.css, functions.php, woocommerce/content-product.php
+
+30/05/2016 - Version 2.6
+- Update plugin one click import demo content
+- Update theme compatible with WooCommerce version 2.5.5
+- New added new slider demo file in folder data_export/archi-dark/Revolution Slider Demo Files/new-home-slider.zip
+- New added new Homepage.
+- Edit some files : sample-config.php, style.css, functions.php, header*.php
+
+18/05/2016 - Version 2.5.5
+- Update Font Awesome 4.6.3
+- Update Revolution Slider latest version 5.2.5.1
+- Fixed bug : change footer background color.
+- New added option on/off sub-page (sub-page have : title page, breadcrumb)
+- Remove folder "ReduxFramework" in folder Archi theme from version 2.5.5
+- Require install "ReduxFramework" plugin from version 2.5.5
+- Edit some files : color.php, sample-config.php, style.css, all files.
+
+03/05/2016 - Version 2.5.4
+- Update Font Awesome 4.6.1
+- Improve style button back to top
+- Edit some files : functions.php, header*.php , footer*.php, style.css
+
+20/04/2016 - Version 2.5.3.3
+- Update Visual Composer latest version 4.11.2.1
+- Update Revolution Slider latest version 5.2.5
+- Fixed bug : add css code in "Archi Options -> Styling Options -> CSS Code" work now.
+
+14/04/2016 - Version 2.5.3.2
+- Update Revolution Slider latest version 5.2.4.1
+- Update Visual Composer latest version 4.11.2
+- Update Theme compatible with WordPress 4.5
+
+08/04/2016 - Version 2.5.3.1
+- Improve side navigation look good like as demo site.
+- Edit Shortcode Element Gmap can be select dark version or light version
+- Update plugin one click import demo content
+
+06/04/2016 - Version 2.5.3
+- Revolution Slider latest version 5.2.4
+- Visual Composer latest version 4.11.1
+- New added Side Navigation Light version
+- New added Projects layout style 2 with title, category below image.
+
+15/03/2016 - Version 2.5.2
+- Revolution Slider latest version 5.2.1
+- Visual Composer latest version 4.11
+- Fixed menu item overlap on breadcrumb sub-header of all page.
+- Fixed button next, previous revolution slider
+- Fixed image size use add_image_size function of wordpress, remove crop image by bfi_thumb
+- Add new image next, previous revolution slider in folder archi/images
+- Files update functions.php, shortcode.php, archive-portfolio.php, archive-service.php, taxonomy-categories.php, archi/css/rev-settings.css
+
+15/02/2016 - Version 2.5.1.4
+- Update Visual Composer latest version 4.10
+- Update for translate All plugins : OT Portfolios, OT Process, OT Testimonials, OT Slider Text, OT Services.
+- Fixed some bugs in file : functions.php, shortcode.php
+- New Added : Portfolio Style 2 (OT Portfolio Filter 2)
+
+28/01/2016 - Version 2.5.1
+- Files update : shortcode.php, vc_shortcode.php, style.css, sample-config.php, archive-portfolio.php, taxonomy-categories.php
+- New added options on element OT Portfolio: 5 columns, 6 columns.
+- Update demo content files.
+- Update Woocommerce latest version 2.5.1
+
+18/01/2016 - Version 2.5
+- Update Visual Composer latest version 4.9.2
+- Added new element: OT Testimonial Grid, OT Services Grid
+- Files edit : functions.php, shortcode.php, vc_shortcode.php, header-sidenav.css, designesia.js
+
+24/12/2015 - Version 2.4
+- Update Visual Composer latest version 4.9.1
+- Update Revolution Slider latest version 5.1.5
+- Added new layout header side navigation
+- Update all demo content 
+- Added Option for show portfolio by load ajax content or link to single portfolio page in theme option
+- Added option for header normal or side navigation in theme option
+- Update document guide
+- Files update : functions.php, header.php, header-onepage.php, header-landing.php, footer.php, footer-landing.php, designesia.js, sample-config.php
+
+15/12/2015 - Version 2.3
+- Update font-awesome latest version 4.5.0
+- Update Visual Composer latest version 4.9
+- Update files compatible with Visual Composer latest version 4.9 : 
+  + vc_column.php, vc_row.php
+  + style.css, light.css, woocommerce.css
+- Update theme compatible with WordPress latest version 4.4
+
+10/11/2015 � Version 2.2
+- New added top bar on header and you can show : email, hotline, work hours, social network icons.
+- New added popup on gallery with video vimeo and video youtube.
+- Files update : style.css, color.php, shortcode.php, custom-metaboxs.php, sample-config.php, etc...
+- Update Visual Composer latest version 4.8.1
+
+04/11/2015 � Version 2.0
+- New added projects 2 and 3 columns
+- New added gallery 2,3 and 4 columns
+- New added element portfolio category to show portfolio by special category.
+- Improved testimonial carousel for mobile
+- Fixed content show before preloader
+- Update Visual Composer latest version 4.8.0.1
+- Update Revolution Slider latest version 5.1
+- Files update : style.css, color.php, shortcode.php, vc_shortcode.php, etc...
+- Update demo content files.
+
+20/10/2015 � Version 1.8
+- Added two diffirent landing pages.
+- Added button back to top
+- Update demo content.
+- Added background image for sub header each service page.
+- Files update : style.css, color.php, shortcode.php, vc_shortcode.php, etc...
+- Update files translate : .PO & .MO
+
+06/10/2015 � Version 1.0.2
+- Update Visual Composer latest version 4.7.4
+
+28/09/2015 � Version 1.0.1
+- Update demo content.
+- Update archi child theme.
+- Pricing Table added.
+- Files update : style.css, color.php, shortcode.php, vc_shortcode.php, etc...
+
+14/09/2015 � Version 1.0
+* First release

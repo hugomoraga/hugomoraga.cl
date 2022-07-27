@@ -1,0 +1,26 @@
+<wpml-config>
+	<admin-texts>
+        <key name="archi_option">
+            <key name="info_list_text" />
+            <key name="sidenav_contactinfo_extend" /> 
+            <key name="portfolio_title" />
+            <key name="portfolio_loading" />
+            <key name="portfolio_closex" />
+			<key name="portfolio_text_all" />
+			<key name="blog_btntext" />
+			<key name="the_blog_single" />
+			<key name="archive_service_title" />
+			<key name="archive_service_read" />				
+			<key name="404_title" />
+			<key name="404_content" />
+			<key name="back_404" />
+			<key name="footer_text" />
+			<key name="cs_title" />
+			<key name="cs_stitle" />			
+			<key name="hc_title" />
+			<key name="hc_stitle" />
+			<key name="hc_contact" />
+        </key>
+        <key name="simple_string_option" />
+    </admin-texts>
+</wpml-config>

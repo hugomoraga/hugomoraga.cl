@@ -1,0 +1,770 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Archi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-18 08:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: single.php:156 single.php:223
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: framework/template-tags.php:254
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: comments.php:20
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: single.php:156 single.php:223
+msgid "0 comments"
+msgstr ""
+
+#: single.php:156 single.php:223
+msgid "1 comments"
+msgstr ""
+
+#: single-portfolio.php:57 single-portfolio.php:59
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr ""
+
+#: single-portfolio.php:75 single-portfolio.php:77
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+#: single-portfolio.php:141 single-portfolio.php:143
+msgid "<i class=\"fa fa-chevron-left\"></i> Prev"
+msgstr ""
+
+#: framework/meta-boxes.php:85
+msgid "Add Gallery"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Allura, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:131
+msgctxt "Allura font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:238
+#: framework/theme-custom-visual-template.php:273
+msgid "Animation time delay number"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:247
+#: framework/theme-custom-visual-template.php:282
+msgid "Animation time duration number"
+msgstr ""
+
+#: functions.php:395 functions.php:404
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#. Name of the theme
+msgid "Archi"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Archi specially made for Interior Design services, Dining Room, Exterior "
+"Design, Kitchen Design, Living Room Design, Master Bedroom Design, "
+"Residential Design, Furniture Design, Office Design, Commercial Design, "
+"Hospital Design, Cottage, Architecture, contractor, construction, building, "
+"Construction &amp; Business etc… . Archi help you to build beauty and modern "
+"website in no time. Archi has beauty design and bunch of features to make "
+"your website stand out of crowd."
+msgstr ""
+
+#: framework/meta-boxes.php:52
+msgid "Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:46
+msgid "Author"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:110
+msgid "Background HTML5 Video?"
+msgstr ""
+
+#: framework/meta-boxes.php:111 framework/meta-boxes.php:150
+#: framework/meta-boxes.php:195
+msgid "Background Image On Top Page"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:178
+msgid "Background Video Overlay"
+msgstr ""
+
+#. Name of the template
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Canvas"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:68
+msgid "Columns image"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon Page"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon Video"
+msgstr ""
+
+#: comments.php:42
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/plugin-requires.php:23
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:223
+#: framework/theme-custom-visual-template.php:258
+msgid "CSS Animation"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:183
+msgid "Custom"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:62
+#: page-templates/template-coming-soon-page.php:223
+#: page-templates/template-coming-soon-video.php:63
+#: page-templates/template-coming-soon-video.php:230
+msgid "days"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:71
+#: framework/theme-custom-visual-template.php:94
+msgid "Default"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Dosis, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:137
+msgctxt "Dosis font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:182
+msgid "Dotted"
+msgstr ""
+
+#: framework/meta-boxes.php:130
+msgid "Double size"
+msgstr ""
+
+#: framework/meta-boxes.php:132
+msgid "Double size of height"
+msgstr ""
+
+#: framework/meta-boxes.php:131
+msgid "Double size of width"
+msgstr ""
+
+#: comments.php:40
+msgid "Email *"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:138
+msgid "Enter Video mp4 link url."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:167
+msgid "Enter Video ogg link url."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:153
+msgid "Enter Video webm link url."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:241
+#: framework/theme-custom-visual-template.php:250
+#: framework/theme-custom-visual-template.php:276
+#: framework/theme-custom-visual-template.php:285
+msgid "Example : 0.2, 0.6, 1, etc"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:229
+#: framework/theme-custom-visual-template.php:264
+msgid "Fade In"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:228
+#: framework/theme-custom-visual-template.php:263
+msgid "Fade In Down"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:230
+#: framework/theme-custom-visual-template.php:265
+msgid "Fade In Left"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:231
+#: framework/theme-custom-visual-template.php:266
+msgid "Fade In Right"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:227
+#: framework/theme-custom-visual-template.php:262
+msgid "Fade In Up"
+msgstr ""
+
+#: framework/meta-boxes.php:216
+msgid ""
+"Find FontAwesome icons class name here: https://fontawesome.com/v4.7."
+"0/icons/ , Example Add icon name only: facebook"
+msgstr ""
+
+#: framework/meta-boxes.php:215
+msgid "FontAwesome icon"
+msgstr ""
+
+#: functions.php:441
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+#: functions.php:411
+msgid "Footer One Widget Area"
+msgstr ""
+
+#: functions.php:431
+msgid "Footer Three Widget Area"
+msgstr ""
+
+#: functions.php:421
+msgid "Footer Two Widget Area"
+msgstr ""
+
+#: functions.php:413 functions.php:423 functions.php:433 functions.php:443
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+#: framework/meta-boxes.php:18
+msgid "Format Details"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:21
+msgid "Full height?"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:8
+msgid "Fullwidth"
+msgstr ""
+
+#: framework/meta-boxes.php:32
+msgid "Gallery"
+msgstr ""
+
+#: framework/meta-boxes.php:78
+msgid "Gallery Settings"
+msgstr ""
+
+#: framework/template-tags.php:15
+msgid "Home"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:67
+#: page-templates/template-coming-soon-page.php:224
+#: page-templates/template-coming-soon-video.php:68
+#: page-templates/template-coming-soon-video.php:231
+msgid "hours"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:124
+msgid ""
+"HTML5 videos will not play on mobile devices, so you need to use a "
+"background image instead."
+msgstr ""
+
+#. URI of the theme
+msgid "http://archiwp.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://oceanthemes.net/"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:112
+msgid ""
+"If checked row will be set to background video, that not support YouTube "
+"video, Vimeo video."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:23
+msgid ""
+"If checked row will be set to full height, Recommended use for Row(Section) "
+"on the top of page only."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:43
+msgid ""
+"If checked row will be set to image display on the half Row(Section), read "
+"more guide: https://oceanthemes.ticksy.com/article/9870/"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:33
+msgid ""
+"If checked row will be set to parallax and you need add background image in "
+"Design Options Tab."
+msgstr ""
+
+#: framework/meta-boxes.php:25 framework/theme-custom-visual-template.php:51
+msgid "Image"
+msgstr ""
+
+#: framework/BFI_Thumb.php:383
+msgid "Image color change failed."
+msgstr ""
+
+#: framework/BFI_Thumb.php:400
+msgid "Image grayscale failed."
+msgstr ""
+
+#: framework/BFI_Thumb.php:417
+msgid "Image negate failed."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:72
+msgid "Image on 4 Columns"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:73
+msgid "Image on 5 Columns"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:74
+msgid "Image on 6 Columns"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:75
+msgid "Image on 7 Columns"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:95
+msgid "Image on Left Row"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:96
+msgid "Image on Right Row"
+msgstr ""
+
+#: framework/BFI_Thumb.php:296
+msgid "Image opacity change failed."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:91
+msgid "Image position"
+msgstr ""
+
+#: framework/BFI_Thumb.php:273
+msgid "Image rotate failed."
+msgstr ""
+
+#: framework/meta-boxes.php:176
+msgid "Job"
+msgstr ""
+
+#: framework/meta-boxes.php:177
+msgid "Job of Person"
+msgstr ""
+
+#. Name of the template
+msgid "Landing Page"
+msgstr ""
+
+#: functions.php:93
+msgid "Landing Page Menu"
+msgstr ""
+
+#: comments.php:37
+msgid "Leave a reply"
+msgstr ""
+
+#: framework/template-functions.php:112
+msgid "Log Out"
+msgstr ""
+
+#: framework/template-functions.php:114
+msgid "Login"
+msgstr ""
+
+#: framework/plugin-requires.php:9
+msgid "Meta Box"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:72
+#: page-templates/template-coming-soon-page.php:225
+#: page-templates/template-coming-soon-video.php:73
+#: page-templates/template-coming-soon-video.php:232
+msgid "minutes"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Montserrat, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:143
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:135
+msgid "MP4 Url"
+msgstr ""
+
+#: framework/template-functions.php:112
+msgid "My account"
+msgstr ""
+
+#: comments.php:39
+msgid "Name *"
+msgstr ""
+
+#: comments.php:21
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: single.php:211 single.php:216
+msgid "Newer Post"
+msgstr ""
+
+#: single-portfolio.php:150 single-portfolio.php:152
+msgid "Next <i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:11
+msgid "No"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:226
+#: framework/theme-custom-visual-template.php:261
+msgid "None"
+msgstr ""
+
+#: framework/meta-boxes.php:129
+msgid "Normal size"
+msgstr ""
+
+#: search.php:50 page-templates/template-blog.php:70
+msgid "Nothing Found Here!"
+msgstr ""
+
+#. Author of the theme
+msgid "OceanThemes"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:164
+msgid "OGG Url"
+msgstr ""
+
+#: single.php:210 single.php:215
+msgid "Older Post"
+msgstr ""
+
+#. Name of the template
+msgid "One Page"
+msgstr ""
+
+#: functions.php:92
+msgid "One Page Menu"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:149
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/plugin-requires.php:68
+msgid "OT Portfolios"
+msgstr ""
+
+#: framework/plugin-requires.php:96
+msgid "OT Process"
+msgstr ""
+
+#: framework/plugin-requires.php:79
+msgid "OT Services"
+msgstr ""
+
+#: framework/plugin-requires.php:90
+msgid "OT Testimonial"
+msgstr ""
+
+#: framework/plugin-requires.php:57
+msgid "OT Themes One Click Import Demo"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:181
+msgid "Overlay"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:213
+msgid "Overlay Background Color"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:196
+msgid "Overlay Background Image"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:210
+msgid "Overlay Color"
+msgstr ""
+
+#: page.php:64
+msgid "Page"
+msgstr ""
+
+#: page-templates/template-canvas.php:15
+#: page-templates/template-fullwidth.php:50
+#: page-templates/template-landing.php:16
+#: page-templates/template-onepage.php:17
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#: page.php:72
+msgid "Page not found"
+msgstr ""
+
+#: framework/meta-boxes.php:143
+msgid "Page Settings"
+msgstr ""
+
+#: page.php:60
+msgid "Pages:"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:31
+msgid "Parallax row?"
+msgstr ""
+
+#: framework/meta-boxes.php:95
+msgid "Portfolio Format Details"
+msgstr ""
+
+#: functions.php:91
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:393
+msgid "Primary Sidebar"
+msgstr ""
+
+#: framework/meta-boxes.php:208
+msgid "Process icon image"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by PT Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:155
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:41
+msgid "Put a pictures on the half Row?"
+msgstr ""
+
+#: framework/meta-boxes.php:38
+msgid "Quote"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Raleway, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:161
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: content-audio.php:23 content-gallery.php:30 content-image.php:30
+#: content-video.php:23 content.php:20
+msgid "Read More"
+msgstr ""
+
+#: framework/plugin-requires.php:16
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/template-functions.php:114
+msgid "Register"
+msgstr ""
+
+#: framework/plugin-requires.php:46
+msgid "Revolution Slider"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Roboto Slab, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:167
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr ""
+
+#: search.php:11
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:77
+#: page-templates/template-coming-soon-page.php:226
+#: page-templates/template-coming-soon-video.php:78
+#: page-templates/template-coming-soon-video.php:233
+msgid "seconds"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:233
+#: framework/theme-custom-visual-template.php:268
+msgid "Select Animate , Default: None"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:77
+msgid "Select columns position within row."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:14
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:199
+msgid "Select image from media library, use Overlay on Video"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:54
+msgid "Select image from media library."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:98
+#: framework/theme-custom-visual-template.php:185
+msgid "Select Image position within row."
+msgstr ""
+
+#: framework/meta-boxes.php:125
+msgid "Select Thumbnail Size"
+msgstr ""
+
+#: comments.php:43
+msgid "Send Message"
+msgstr ""
+
+#: functions.php:94
+msgid "Service Page Menu"
+msgstr ""
+
+#: single-portfolio.php:97 single.php:164
+msgid "Share:"
+msgstr ""
+
+#: functions.php:402
+msgid "Shop Sidebar"
+msgstr ""
+
+#: single.php:230
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: framework/meta-boxes.php:118 framework/meta-boxes.php:156
+#: framework/meta-boxes.php:201
+msgid "Sub Title"
+msgstr ""
+
+#. Name of the template
+msgid "Template Shop"
+msgstr ""
+
+#: framework/meta-boxes.php:168
+msgid "Testimonials Info"
+msgstr ""
+
+#: framework/BFI_Thumb.php:145
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: framework/template-tags.php:241
+msgid "type to search&hellip;"
+msgstr ""
+
+#: framework/meta-boxes.php:136
+msgid ""
+"Use for \"OT Portfolio Masonry\" element only, set thumbnail size after add "
+"featured image."
+msgstr ""
+
+#: framework/meta-boxes.php:115
+msgid "Using on single portfolio page"
+msgstr ""
+
+#: framework/meta-boxes.php:63 framework/meta-boxes.php:102
+msgid "Video"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:121
+msgid "Video Background Image"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:150
+msgid "WEBM Url"
+msgstr ""
+
+#: framework/plugin-requires.php:28
+msgid "Woocommerce"
+msgstr ""
+
+#: framework/plugin-requires.php:35
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:12
+#: framework/theme-custom-visual-template.php:24
+#: framework/theme-custom-visual-template.php:34
+#: framework/theme-custom-visual-template.php:44
+#: framework/theme-custom-visual-template.php:113
+msgid "Yes"
+msgstr ""
+
+#: framework/meta-boxes.php:212
+msgid ""
+"You can use icon images with format: svg, jpg, png and max-width: 80px + max-"
+"height: 80px."
+msgstr ""
+
+#: framework/template-tags.php:261
+msgid "Your comment is awaiting moderation."
+msgstr ""

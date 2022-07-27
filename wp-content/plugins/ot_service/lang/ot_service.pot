@@ -1,0 +1,113 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-06 03:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ot_service.php:27
+msgid "service"
+msgstr ""
+
+#: ot_service.php:30
+msgid "Services"
+msgstr ""
+
+#: ot_service.php:33
+msgid "Add New"
+msgstr ""
+
+#: ot_service.php:34
+msgid "Add New Service"
+msgstr ""
+
+#: ot_service.php:35
+msgid "New Service"
+msgstr ""
+
+#: ot_service.php:36
+msgid "Edit Service"
+msgstr ""
+
+#: ot_service.php:37
+msgid "View Service"
+msgstr ""
+
+#: ot_service.php:38
+msgid "All Services"
+msgstr ""
+
+#: ot_service.php:39
+msgid "Search Services"
+msgstr ""
+
+#: ot_service.php:40
+msgid "No Services found."
+msgstr ""
+
+#: ot_service.php:41
+msgid "No services found in Trash."
+msgstr ""
+
+#: ot_service.php:47
+msgid "Manages Services"
+msgstr ""
+
+#: ot_service.php:68 ot_service.php:69 ot_service.php:74
+msgid "Category Service"
+msgstr ""
+
+#: ot_service.php:70
+msgid "Search Category Service"
+msgstr ""
+
+#: ot_service.php:71
+msgid "All Category Service"
+msgstr ""
+
+#: ot_service.php:72
+msgid "Edit Category Service"
+msgstr ""
+
+#: ot_service.php:73
+msgid "Add new Category Service"
+msgstr ""
+
+#: ot_service.php:83
+msgid "category_service"
+msgstr ""
+
+#: ot_service.php:119
+msgid "No Service Category"
+msgstr ""
+
+#: ot_service.php:139
+msgid "OT Service attribute base"
+msgstr ""
+
+#. Name of the plugin
+msgid "OT Services"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Declares a plugin that will create a custom post type displaying services."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://oceanthemes.net/"
+msgstr ""
+
+#. Author of the plugin
+msgid "OceanThemes"
+msgstr ""
